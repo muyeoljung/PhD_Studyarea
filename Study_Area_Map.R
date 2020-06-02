@@ -20,7 +20,7 @@ str(Study.site)
 #Google requires a registered API key.
 #?register_google
 
-register_google(key = "AIzaSyCsT9QbXhL9chOPEPdaJL3s4CbbWZguy0E ")
+register_google(key = "your_key")
 
 map.Korea <-ggmap(get_googlemap("south korea", zoom=5))
 map.Korea
