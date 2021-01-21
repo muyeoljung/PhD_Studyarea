@@ -1,7 +1,7 @@
 Data frames for R Map, converted from shape files.
 
 * ND whole area (no subdivision)
-* ND River5: ND whole rivers whose order is greater than 5.
+* ND River5_9: ND whole rivers whose order is greater than 5.
 
 * Separated ND River files
   * ND_str_ord_5: Stream order 5
